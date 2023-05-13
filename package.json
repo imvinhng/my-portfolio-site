@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://{imvinhng}.github.io/{Azure-Portfolio-2023}",
+  "homepage": "https://imvinhng.github.io/Azure-Portfolio-2023",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{imvinhng}.github.io/{Azure-Portfolio-2023}'",
+    "build-gh": "parcel build --public-url 'https://imvinhng.github.io/Azure-Portfolio-2023'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

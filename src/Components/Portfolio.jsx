@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/programmer.gif";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Money Plant",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A React application where users can grow a garden of beautiful plants and collect pets to help them track your financial habits and bills over time.",
+    url: "https://github.com/imvinhng/money-plant-ttseattle2023",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Space Invader X",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A recreation of the classic Space Invader game for the Global Game Jam of 2020. Built by Unity game engine, by the our team the Space Jammers. ",
+    url: "https://github.com/imvinhng/money-plant-ttseattle2023",
   },
   {
-    title: "My Resume Site",
+    title: "The Zombie Killer",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A first-person zombie shooting game created at the HackTheNortheast in 2020 by our developer team. It's fun, action-packed and thrilling like any zombie game should be.",
+    url: "https://github.com/imvinhng/HackTheNortheast2020/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Multiplayer PvP Tetris",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A JavaScript creation for our CS capstone at the University of Washington. Players all over the world can join in for a retrospective Tetris fun.s",
+    url: "https://github.com/imvinhng/TetrisMultiplayerNetwork",
   },
 ];
 

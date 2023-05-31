@@ -40,7 +40,7 @@ const projectList = [
     title: "Space Invader X",
     description:
       "A recreation of the classic Space Invader game for the Global Game Jam of 2020. Built by Unity game engine, by the our team the Space Jammers. ",
-    url: "https://github.com/imvinhng/money-plant-ttseattle2023",
+    url: "https://github.com/imvinhng/GlobalGameJam2020",
   },
   {
     title: "The Zombie Killer",

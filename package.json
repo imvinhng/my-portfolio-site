@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
-  "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "name": "vtn-portfolio-2024",
+  "version": "1.1.0",
+  "description": "Portfolio",
   "source": "src/index.html",
   "homepage": "https://imvinhng.github.io/my-portfolio-site",
   "scripts": {

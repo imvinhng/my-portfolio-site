@@ -25,14 +25,10 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Vinh Nguyen",
-  title: "Software Developer",
-  email: "vnguyenof@gmail.com",
+  title: "Web & Mobile Developer",
+  email: "vnguyen.the111@gmail.com",
   gitHub: "imvinhng",
-  instagram: "yskywalker88",
   linkedIn: "imvinhng",
-  medium: "",
-  twitter: "",
-  youTube: "Vinh Nguyen",
 };
 
 const primaryColor = "#4E567E";
